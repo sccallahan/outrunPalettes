@@ -1,0 +1,15 @@
+Package: outrunPalettes
+Type: Package
+Title: Provides Outrun Themed Color Palettes
+Version: 0.1.0
+Author: S. Carson Callahan
+Maintainer: The package maintainer <scarsoncallahan@protonmail.com>
+Description: Generates color palettes based on an outrun aesthetic. If >5 colors
+    are selected, colors will be interpolated.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
+Imports: 
+    graphics,
+    grDevices
