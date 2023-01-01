@@ -6,6 +6,8 @@ Author: S. Carson Callahan
 Maintainer: The package maintainer <scarsoncallahan@protonmail.com>
 Description: Generates color palettes based on an outrun aesthetic. If >5 colors
     are selected, colors will be interpolated.
+URL: https://github.com/sccallahan/outrunPalettes
+BugReports: https://github.com/sccallahan/outrunPalettes/issues
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
